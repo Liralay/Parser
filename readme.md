@@ -1,0 +1,1 @@
+This is a pat project as a part of studying Python
